@@ -1,6 +1,5 @@
 # Designing an ATM System
 
-demo lines added
  Requirements
 1. The ATM system should support basic operations such as balance inquiry, cash withdrawal, and cash deposit.
 2. Users should be able to authenticate themselves using a card and a PIN (Personal Identification Number).
